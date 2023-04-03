@@ -95,7 +95,8 @@
       "edit": "Sửa",
       "open": "Mở",
       "save": "Lưu",
-      "view": "Xem"
+      "view": "Xem",
+      "show": "Show {{otherEntity}}"
     },
     "detail": {
       "field": "Trường",
@@ -115,6 +116,11 @@
       "pattern": "Trường này phải theo định dạng {{ pattern }}.",
       "number": "Trường này phải là một số.",
       "datetimelocal": "Trường này phải là định dạng thời gian."
+    },
+    "filters": {
+      "set": "Following filters are set",
+      "clear": "Clear filter",
+      "clearAll": "Clear all filters"
     }
   },
   "error": {
